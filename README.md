@@ -21,7 +21,7 @@ The fire-fighting design of the underground garage is divided into five parts:
 - ###Achievement
   - Design drawings
   - General description of drawings and materials list
-  - design manual
+  - Design manual
   
 ------
 ##References
